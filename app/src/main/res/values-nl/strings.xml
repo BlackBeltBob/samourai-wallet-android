@@ -300,7 +300,7 @@
     <string name="no_ricochet_display">Er is geen Ricochet script te tonen.</string>
     <string name="ricochet_broadcast">Uw Ricochet is kenbaar gemaakt.</string>
 
-    <string name="bip47_cannot_identify_outpoint">Kon uitgaande betaalcode niet makseren</string>
+    <string name="bip47_cannot_identify_outpoint">Kon uitgaande betaalcode niet maskeren</string>
     <string name="bip47_cannot_compose_notif_tx">Kon geen notificatietransactie aanmaken</string>
 
     <string name="pushtx_returns_null">Uitgave mislukt. Server gaf null terug.</string>
